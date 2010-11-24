@@ -1,0 +1,6 @@
+Revision history for Perl extension Text::CVS::Tab.
+
+0.01  Wed Nov 24 20:59:00 2010
+	- original version; created by h2xs 1.23 with options
+		-A -n Text::CVS::Tab
+

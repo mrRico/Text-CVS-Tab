@@ -1,0 +1,9 @@
+Changes
+Makefile.PL
+MANIFEST
+ppport.h
+README
+Tab.xs
+t/Text-CVS-Tab.t
+lib/Text/CVS/Tab.pm
+typemap
