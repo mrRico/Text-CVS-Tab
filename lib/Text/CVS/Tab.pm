@@ -18,7 +18,7 @@ Text::CVS::Tab - parser for cvs file over tab separated
 
 =head1 SYNOPSIS
     
-    my $tcvs = Text::CVS::Tab->parse('/path/to/file');
+    my $tcvs = Text::CVS::Tab->parse('/path/to/file') or die $!;
     
     my $arr_ref = $tcvs->fields;
     
